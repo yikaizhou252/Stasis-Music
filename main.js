@@ -1,6 +1,6 @@
 const Discord =  require('discord.js');
 
-const token = 'ODg3MzY4OTkwNDAwMzQ0MDY1.YUDIxQ.e0FTVuHaohX8I15CJgqZIkkkbnw';
+const token = 'NOTE: YOU CAN GET YOUR OWN TOKEN ON https://discord.com/developers/applications';
 const client = new Discord.Client();
 
 const prefix = '-';
